@@ -1,0 +1,20 @@
+.nav {
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+
+.btn {
+  background-color: #747474;
+}
+
+a {
+  margin: 10px;
+}
+
+.btn:focus {
+  background-color: black;
+}
+
+.home {
+  margin-right: 200px;
+}
